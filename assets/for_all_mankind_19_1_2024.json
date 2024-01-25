@@ -1,0 +1,395 @@
+{
+    "imdb_id": "tt7772588",
+    "name": "For All Mankind",
+    "popularities": {
+        "trakt": 35,
+        "moviedb": 165.968,
+        "stremio": 5.815166666666667,
+        "stremio_lib": 0
+    },
+    "type": "series",
+    "cast": [
+        "Joel Kinnaman",
+        "Michael Dorman",
+        "Wrenn Schmidt"
+    ],
+    "country": "United States",
+    "description": "In an alternative version of 1969, the Soviet Union beats the United States to the Moon, and the space race continues on for decades with still grander challenges and goals.",
+    "genre": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "imdbRating": "8.1",
+    "poster": "https://images.metahub.space/poster/small/tt7772588/img",
+    "released": "2019-11-01T00:00:00.000Z",
+    "slug": "series/for-all-mankind-7772588",
+    "writer": [
+        "Ronald D. Moore",
+        "Ben Nedivi",
+        "Matt Wolpert"
+    ],
+    "year": "2019–",
+    "status": "Continuing",
+    "director": [],
+    "background": "https://images.metahub.space/background/medium/tt7772588/img",
+    "logo": "https://images.metahub.space/logo/medium/tt7772588/img",
+    "runtime": "60 min",
+    "awards": "Won 2 Primetime Emmys. 4 wins & 24 nominations total",
+    "trailers": [
+        {
+            "source": "HZS9M52Bd_w",
+            "type": "Trailer"
+        }
+    ],
+    "popularity": 5.815166666666667,
+    "id": "tt7772588",
+    "videos": [
+        {
+            "name": "Polaris",
+            "season": 3,
+            "number": 1,
+            "firstAired": "2022-06-10T08:00:00.000Z",
+            "tvdb_id": 9105060,
+            "rating": 0,
+            "overview": "Nearly 10 years have passed. Danielle and Ed attend a celebration, where things take a terrifying turn.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/1/w780.jpg",
+            "id": "tt7772588:3:1",
+            "released": "2022-06-10T08:00:00.000Z",
+            "episode": 1,
+            "description": "Nearly 10 years have passed. Danielle and Ed attend a celebration, where things take a terrifying turn."
+        },
+        {
+            "name": "Game Changer",
+            "season": 3,
+            "number": 2,
+            "firstAired": "2022-06-17T08:00:00.000Z",
+            "tvdb_id": 9105062,
+            "rating": 0,
+            "overview": "A commercial spaceflight company makes an announcement. The choice over who’ll command the Mars mission leads to a shift in personnel.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/2/w780.jpg",
+            "id": "tt7772588:3:2",
+            "released": "2022-06-17T08:00:00.000Z",
+            "episode": 2,
+            "description": "A commercial spaceflight company makes an announcement. The choice over who’ll command the Mars mission leads to a shift in personnel."
+        },
+        {
+            "name": "All In",
+            "season": 3,
+            "number": 3,
+            "firstAired": "2022-06-24T08:00:00.000Z",
+            "tvdb_id": 9105065,
+            "rating": 0,
+            "overview": "As NASA scrambles to prepare for the launch to Mars, Margo is confronted with a harsh personal reality.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/3/w780.jpg",
+            "id": "tt7772588:3:3",
+            "released": "2022-06-24T08:00:00.000Z",
+            "episode": 3,
+            "description": "As NASA scrambles to prepare for the launch to Mars, Margo is confronted with a harsh personal reality."
+        },
+        {
+            "name": "Happy Valley",
+            "season": 3,
+            "number": 4,
+            "firstAired": "2022-07-01T08:00:00.000Z",
+            "tvdb_id": 9105068,
+            "rating": 0,
+            "overview": "A surprise maneuver during the journey to Mars provokes desperate measures.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/4/w780.jpg",
+            "id": "tt7772588:3:4",
+            "released": "2022-07-01T08:00:00.000Z",
+            "episode": 4,
+            "description": "A surprise maneuver during the journey to Mars provokes desperate measures."
+        },
+        {
+            "name": "Seven Minutes of Terror",
+            "season": 3,
+            "number": 5,
+            "firstAired": "2022-07-08T08:00:00.000Z",
+            "tvdb_id": 9105070,
+            "rating": 0,
+            "overview": "The race to land first on Mars brings together unexpected allies.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/5/w780.jpg",
+            "id": "tt7772588:3:5",
+            "released": "2022-07-08T08:00:00.000Z",
+            "episode": 5,
+            "description": "The race to land first on Mars brings together unexpected allies."
+        },
+        {
+            "name": "New Eden",
+            "season": 3,
+            "number": 6,
+            "firstAired": "2022-07-15T08:00:00.000Z",
+            "tvdb_id": 9105073,
+            "rating": 0,
+            "overview": "The astronauts move quickly to build Martian bases.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/6/w780.jpg",
+            "id": "tt7772588:3:6",
+            "released": "2022-07-15T08:00:00.000Z",
+            "episode": 6,
+            "description": "The astronauts move quickly to build Martian bases."
+        },
+        {
+            "name": "Bring It Down",
+            "season": 3,
+            "number": 7,
+            "firstAired": "2022-07-22T08:00:00.000Z",
+            "tvdb_id": 9105076,
+            "rating": 0,
+            "overview": "A joint mission brings about conflict between crew members.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/7/w780.jpg",
+            "id": "tt7772588:3:7",
+            "released": "2022-07-22T08:00:00.000Z",
+            "episode": 7,
+            "description": "A joint mission brings about conflict between crew members."
+        },
+        {
+            "name": "The Sands of Ares",
+            "season": 3,
+            "number": 8,
+            "firstAired": "2022-07-29T08:00:00.000Z",
+            "tvdb_id": 9105079,
+            "rating": 0,
+            "overview": "After a sudden crisis, the Martian crews pull together.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/8/w780.jpg",
+            "id": "tt7772588:3:8",
+            "released": "2022-07-29T08:00:00.000Z",
+            "episode": 8,
+            "description": "After a sudden crisis, the Martian crews pull together."
+        },
+        {
+            "name": "Coming Home",
+            "season": 3,
+            "number": 9,
+            "firstAired": "2022-08-05T08:00:00.000Z",
+            "tvdb_id": 9105080,
+            "rating": 0,
+            "overview": "Plans to leave Mars are complicated by an unforeseen issue.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/9/w780.jpg",
+            "id": "tt7772588:3:9",
+            "released": "2022-08-05T08:00:00.000Z",
+            "episode": 9,
+            "description": "Plans to leave Mars are complicated by an unforeseen issue."
+        },
+        {
+            "name": "Stranger In A Strange Land",
+            "season": 3,
+            "number": 10,
+            "firstAired": "2022-08-12T08:00:00.000Z",
+            "tvdb_id": 9105083,
+            "rating": 0,
+            "overview": "The Martian crew debates how to save the life of one of their own.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/3/10/w780.jpg",
+            "id": "tt7772588:3:10",
+            "released": "2022-08-12T08:00:00.000Z",
+            "episode": 10,
+            "description": "The Martian crew debates how to save the life of one of their own."
+        },
+        {
+            "name": "Glasnost",
+            "season": 4,
+            "number": 1,
+            "firstAired": "2023-11-10T08:00:00.000Z",
+            "tvdb_id": 10020188,
+            "rating": 0,
+            "overview": "Eight years later, a new mission begins: Capture an asteroid. Aleida and Danielle are still haunted by events from the past.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/1/w780.jpg",
+            "id": "tt7772588:4:1",
+            "released": "2023-11-10T08:00:00.000Z",
+            "episode": 1,
+            "description": "Eight years later, a new mission begins: Capture an asteroid. Aleida and Danielle are still haunted by events from the past."
+        },
+        {
+            "name": "Have a Nice Sol",
+            "season": 4,
+            "number": 2,
+            "firstAired": "2023-11-17T08:00:00.000Z",
+            "tvdb_id": 10087058,
+            "rating": 0,
+            "overview": "New Helios employees arrive on Mars as NASA undergoes major changes.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/2/w780.jpg",
+            "id": "tt7772588:4:2",
+            "released": "2023-11-17T08:00:00.000Z",
+            "episode": 2,
+            "description": "New Helios employees arrive on Mars as NASA undergoes major changes."
+        },
+        {
+            "name": "The Bear Hug",
+            "season": 4,
+            "number": 3,
+            "firstAired": "2023-11-22T08:00:00.000Z",
+            "tvdb_id": 10087059,
+            "rating": 0,
+            "overview": "Miles tries to make ends meet. Margo finds herself pulled into a dangerous situation.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/3/w780.jpg",
+            "id": "tt7772588:4:3",
+            "released": "2023-11-22T08:00:00.000Z",
+            "episode": 3,
+            "description": "Miles tries to make ends meet. Margo finds herself pulled into a dangerous situation."
+        },
+        {
+            "name": "House Divided",
+            "season": 4,
+            "number": 4,
+            "firstAired": "2023-12-01T08:00:00.000Z",
+            "tvdb_id": 10087060,
+            "rating": 0,
+            "overview": "An accident on Mars strains relationships, while Miles embarks on a risky venture.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/4/w780.jpg",
+            "id": "tt7772588:4:4",
+            "released": "2023-12-01T08:00:00.000Z",
+            "episode": 4,
+            "description": "An accident on Mars strains relationships, while Miles embarks on a risky venture."
+        },
+        {
+            "name": "Goldilocks",
+            "season": 4,
+            "number": 5,
+            "firstAired": "2023-12-08T08:00:00.000Z",
+            "tvdb_id": 10087061,
+            "rating": 0,
+            "overview": "A discovery sends teams across Earth and Mars scrambling for answers.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/5/w780.jpg",
+            "id": "tt7772588:4:5",
+            "released": "2023-12-08T08:00:00.000Z",
+            "episode": 5,
+            "description": "A discovery sends teams across Earth and Mars scrambling for answers."
+        },
+        {
+            "name": "Leningrad",
+            "season": 4,
+            "number": 6,
+            "firstAired": "2023-12-15T08:00:00.000Z",
+            "tvdb_id": 10087062,
+            "rating": 0,
+            "overview": "Unlikely partnerships are formed at a high-stakes international conference.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/6/w780.jpg",
+            "id": "tt7772588:4:6",
+            "released": "2023-12-15T08:00:00.000Z",
+            "episode": 6,
+            "description": "Unlikely partnerships are formed at a high-stakes international conference."
+        },
+        {
+            "name": "Crossing the Line",
+            "season": 4,
+            "number": 7,
+            "firstAired": "2023-12-22T08:00:00.000Z",
+            "tvdb_id": 10087063,
+            "rating": 0,
+            "overview": "A group on Mars takes drastic measures. Margo grapples with a new assignment.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/7/w780.jpg",
+            "id": "tt7772588:4:7",
+            "released": "2023-12-22T08:00:00.000Z",
+            "episode": 7,
+            "description": "A group on Mars takes drastic measures. Margo grapples with a new assignment."
+        },
+        {
+            "name": "Legacy",
+            "season": 4,
+            "number": 8,
+            "firstAired": "2023-12-29T08:00:00.000Z",
+            "tvdb_id": 10087064,
+            "rating": 0,
+            "overview": "Plans are made with interplanetary ramifications. Ed begins working with an unexpected partner.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/8/w780.jpg",
+            "id": "tt7772588:4:8",
+            "released": "2023-12-29T08:00:00.000Z",
+            "episode": 8,
+            "description": "Plans are made with interplanetary ramifications. Ed begins working with an unexpected partner."
+        },
+        {
+            "name": "Brazil",
+            "season": 4,
+            "number": 9,
+            "firstAired": "2024-01-05T08:00:00.000Z",
+            "tvdb_id": 10087065,
+            "rating": 0,
+            "overview": "Things start to go awry just as an important mission approaches a critical juncture.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/9/w780.jpg",
+            "id": "tt7772588:4:9",
+            "released": "2024-01-05T08:00:00.000Z",
+            "episode": 9,
+            "description": "Things start to go awry just as an important mission approaches a critical juncture."
+        },
+        {
+            "name": "Perestroika",
+            "season": 4,
+            "number": 10,
+            "firstAired": "2024-01-12T08:00:00.000Z",
+            "tvdb_id": 10087066,
+            "rating": 0,
+            "overview": "Tensions on Earth and Mars come to a head.",
+            "thumbnail": "https://episodes.metahub.space/tt7772588/4/10/w780.jpg",
+            "id": "tt7772588:4:10",
+            "released": "2024-01-12T08:00:00.000Z",
+            "episode": 10,
+            "description": "Tensions on Earth and Mars come to a head."
+        }
+    ],
+    "genres": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "releaseInfo": "2019–",
+    "trailerStreams": [
+        {
+            "title": "For All Mankind",
+            "ytId": "HZS9M52Bd_w"
+        }
+    ],
+    "links": [
+        {
+            "name": "8.1",
+            "category": "imdb",
+            "url": "https://imdb.com/title/tt7772588"
+        },
+        {
+            "name": "For All Mankind",
+            "category": "share",
+            "url": "https://www.strem.io/s/series/for-all-mankind-7772588"
+        },
+        {
+            "name": "Drama",
+            "category": "Genres",
+            "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+        },
+        {
+            "name": "Sci-Fi",
+            "category": "Genres",
+            "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+        },
+        {
+            "name": "Joel Kinnaman",
+            "category": "Cast",
+            "url": "stremio:///search?search=Joel%20Kinnaman"
+        },
+        {
+            "name": "Michael Dorman",
+            "category": "Cast",
+            "url": "stremio:///search?search=Michael%20Dorman"
+        },
+        {
+            "name": "Wrenn Schmidt",
+            "category": "Cast",
+            "url": "stremio:///search?search=Wrenn%20Schmidt"
+        },
+        {
+            "name": "Ronald D. Moore",
+            "category": "Writers",
+            "url": "stremio:///search?search=Ronald%20D.%20Moore"
+        },
+        {
+            "name": "Ben Nedivi",
+            "category": "Writers",
+            "url": "stremio:///search?search=Ben%20Nedivi"
+        },
+        {
+            "name": "Matt Wolpert",
+            "category": "Writers",
+            "url": "stremio:///search?search=Matt%20Wolpert"
+        }
+    ],
+    "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+    }
+}

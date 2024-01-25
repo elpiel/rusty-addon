@@ -1,0 +1,192 @@
+{
+    "id": "kitsu:44081",
+    "kitsu_id": "44081",
+    "type": "series",
+    "animeType": "TV",
+    "name": "Kimetsu no Yaiba: Yuukaku-hen",
+    "slug": "kimetsu-no-yaiba-yuukaku-hen",
+    "aliases": [
+        "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
+        "Kimetsu no Yaiba: Yuukaku-hen",
+        "Kimetsu no Yaiba 2",
+        "Demon Slayer: Kimetsu no Yaiba Season 2",
+        "Demon Slayer 2",
+        "Demon Slayer: Kimetsu no Yaiba - Yuukaku-hen"
+    ],
+    "genres": [
+        "Action",
+        "Adventure"
+    ],
+    "logo": "https://assets.fanart.tv/fanart/tv/348545/hdtvlogo/demon-slayer-kimetsu-no-yaiba-620983678fee5.png",
+    "poster": "https://media.kitsu.io/anime/44081/poster_image/medium-41a407e1e475b4d99ba5569c6d7dd6bd.jpeg",
+    "background": "https://assets.fanart.tv/fanart/tv/348545/showbackground/demon-slayer-kimetsu-no-yaiba-5fee3da0d0cff.jpg",
+    "description": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)",
+    "releaseInfo": "2021-2022",
+    "year": "2021-2022",
+    "imdbRating": "8.7",
+    "userCount": 112095,
+    "status": "finished",
+    "trailers": [
+        {
+            "source": "XoJCOAU_72U",
+            "type": "Trailer"
+        }
+    ],
+    "videos": [
+        {
+            "id": "kitsu:44081:1",
+            "title": "Sound Hashira Tengen Uzui",
+            "released": "2021-12-05T14:15:00.000Z",
+            "season": 1,
+            "episode": 1,
+            "thumbnail": "https://media.kitsu.io/episode/296642/thumbnail/abd339a3eff8757a646c5db6a6c426e0.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 1
+        },
+        {
+            "id": "kitsu:44081:2",
+            "title": "Infiltrating the Entertainment District",
+            "released": "2021-12-12T14:15:00.000Z",
+            "season": 1,
+            "episode": 2,
+            "thumbnail": "https://media.kitsu.io/episode/296643/thumbnail/e8e54837670a391b3ec3d60e57418691.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 2
+        },
+        {
+            "id": "kitsu:44081:3",
+            "title": "What Are You?",
+            "released": "2021-12-19T14:15:00.000Z",
+            "season": 1,
+            "episode": 3,
+            "thumbnail": "https://media.kitsu.io/episode/296644/thumbnail/5c35bafa839e7080fe43716d0470524a.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 3
+        },
+        {
+            "id": "kitsu:44081:4",
+            "title": "Tonight",
+            "released": "2021-12-26T14:15:00.000Z",
+            "season": 1,
+            "episode": 4,
+            "thumbnail": "https://media.kitsu.io/episode/296645/thumbnail/08b096bd6c914fda5c6bd05295dd2154.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 4
+        },
+        {
+            "id": "kitsu:44081:5",
+            "title": "Things Are Gonna Get Real Flashy!!",
+            "released": "2022-01-02T14:15:00.000Z",
+            "season": 1,
+            "episode": 5,
+            "thumbnail": "https://media.kitsu.io/episode/296646/thumbnail/0d2255695254f8a211f9a7c1959ff9c5.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 5
+        },
+        {
+            "id": "kitsu:44081:6",
+            "title": "Layered Memories",
+            "released": "2022-01-09T14:15:00.000Z",
+            "season": 1,
+            "episode": 6,
+            "thumbnail": "https://media.kitsu.io/episode/296647/thumbnail/ba8028037bdd8f753ba74403e7709edf.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 6
+        },
+        {
+            "id": "kitsu:44081:7",
+            "title": "Transformation",
+            "released": "2022-01-16T14:15:00.000Z",
+            "season": 1,
+            "episode": 7,
+            "thumbnail": "https://media.kitsu.io/episode/296648/thumbnail/99e2efd8294de197b822189002b06e48.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 7
+        },
+        {
+            "id": "kitsu:44081:8",
+            "title": "Gathering",
+            "released": "2022-01-23T14:15:00.000Z",
+            "season": 1,
+            "episode": 8,
+            "thumbnail": "https://media.kitsu.io/episode/296649/thumbnail/bf0e4ddd81eaf6d8f7e8e83d11e0be33.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 8
+        },
+        {
+            "id": "kitsu:44081:9",
+            "title": "Defeating an Upper Rank Demon",
+            "released": "2022-01-30T14:15:00.000Z",
+            "season": 1,
+            "episode": 9,
+            "thumbnail": "https://media.kitsu.io/episode/296652/thumbnail/b29d1ce5b19cd881a81ecce803633525.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 9
+        },
+        {
+            "id": "kitsu:44081:10",
+            "title": "Never Give Up",
+            "released": "2022-02-06T14:15:00.000Z",
+            "season": 1,
+            "episode": 10,
+            "thumbnail": "https://media.kitsu.io/episode/296664/thumbnail/19f54beb129a65753396fcfc3bbda262.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 10
+        },
+        {
+            "id": "kitsu:44081:11",
+            "title": "No Matter How Many Lives",
+            "released": "2022-02-13T14:15:00.000Z",
+            "season": 1,
+            "episode": 11,
+            "thumbnail": "https://media.kitsu.io/episode/296665/thumbnail/fad7f673f563c1e8d60b0539a010a875.jpg",
+            "imdb_id": "tt9335498",
+            "imdbSeason": 3,
+            "imdbEpisode": 11
+        }
+    ],
+    "links": [
+        {
+            "name": "8.7",
+            "category": "imdb",
+            "url": "https://kitsu.io/anime/kimetsu-no-yaiba-yuukaku-hen"
+        },
+        {
+            "name": "Sequel: Kimetsu no Yaiba: Katanakaji no Sato-hen",
+            "category": "Franchise",
+            "url": "stremio:///detail/series/kitsu:45866"
+        },
+        {
+            "name": "Prequel: Kimetsu no Yaiba: Mugen Ressha-hen",
+            "category": "Franchise",
+            "url": "stremio:///detail/series/kitsu:45249"
+        },
+        {
+            "name": "Prequel: Kimetsu no Yaiba: Mugen Ressha-hen",
+            "category": "Franchise",
+            "url": "stremio:///detail/series/kitsu:42586"
+        },
+        {
+            "name": "Action",
+            "category": "Genres",
+            "url": "stremio:///discover/https%3A%2F%2Fanime-kitsu.strem.fun%2Fmanifest.json/anime/kitsu-anime-popular?genre=Action"
+        },
+        {
+            "name": "Adventure",
+            "category": "Genres",
+            "url": "stremio:///discover/https%3A%2F%2Fanime-kitsu.strem.fun%2Fmanifest.json/anime/kitsu-anime-popular?genre=Adventure"
+        }
+    ],
+    "imdb_id": "tt9335498",
+    "runtime": "25 min"
+}
